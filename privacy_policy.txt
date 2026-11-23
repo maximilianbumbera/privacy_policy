@@ -1,24 +1,37 @@
-Privacy Policy for Time Travel Clicker
-Last Updated: September 7, 2025
+# Privacy Policy for Time Travel Clicker and Toy Rampage
 
-Introduction
-This privacy policy applies to the Time Travel Clicker app (the “Application”) for mobile devices, developed by Crafterko (the “Service Provider”). The Application is ad-supported. By using the Application, you agree to the practices described in this policy.
+Last Updated: November 23, 2026
 
-Information Collected by the Game
-The Application itself does not collect, store, or transmit any personally identifiable information. The only data used internally is a timestamp, which is required for the game to run and is not stored or sent anywhere.
+## Introduction
 
-Third-Party Services
-The Application uses third-party services, including Google Play Services (https://policies.google.com/privacy) and Unity Ads (https://unity.com/legal/privacy-policy). These services may collect data as described in their own privacy policies. The Service Provider does not receive personally identifiable information from these services.
+This privacy policy applies to the Android games Time Travel Clicker and Toy Rampage, developed by Crafterko. Time Travel Clicker is ad-supported. Live ads are disabled in the current Android version of Toy Rampage.
 
-Children’s Privacy
-The Application is not directed to children under 13. If a user under 13 downloads the Application, parents or guardians should supervise its use. The Application does not knowingly collect personal information from children under 13, and users cannot provide personal information through the Application.
+## Information Collected by the Games
 
-Opt-Out and Data Retention
-Since the Application does not collect personal data, there is no data stored by the Service Provider. You can stop any internal data tracking by uninstalling the Application. Third-party services may retain anonymous statistics according to their own policies.
+**Time Travel Clicker:** The game itself does not collect, store, or transmit personally identifiable information. It uses a timestamp to run its gameplay mechanics. The game does not keep or transmit that timestamp.
 
-Changes to This Privacy Policy
-The Service Provider may update this Privacy Policy from time to time. Updates will be posted in the repository with a revised “Last Updated” date. Users are advised to check this file periodically.
+**Toy Rampage:** The game stores your chosen in-game name, settings, progress, coins, unlocks, and achievements on your device so you can continue playing later. The game does not send this saved data to the developer.
 
-Contact Us
-For any questions about this Privacy Policy, please contact:
-Email: pukendes@gmail.com
+## Third-Party Services
+
+Time Travel Clicker uses [Google Play Services](https://policies.google.com/privacy) and [Unity Ads](https://unity.com/legal/privacy-policy). These services may process information such as device identifiers and ad interactions, as described in their own privacy policies.
+
+The current Android version of Toy Rampage does not load live ads. Some buttons simulate ad rewards without contacting an ad network.
+
+## Children’s Privacy
+
+Time Travel Clicker is not directed to children under 13. The developer does not knowingly collect personal information from children under 13 through the games. If you believe a child has provided personal information, please contact the developer using the email address below.
+
+## Opt-Out and Data Retention
+
+Toy Rampage keeps game data on your device until you clear the app’s data in Android settings or uninstall the game. Android may back up or restore app data depending on your device settings.
+
+Third-party services used by Time Travel Clicker may retain information according to their own privacy policies. See the links above for details and available privacy controls.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Changes will be posted on this page with a revised “Last Updated” date.
+
+## Contact Us
+
+For privacy questions or requests, contact **pukendes@gmail.com**. Please include the name of the game.
